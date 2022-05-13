@@ -10,3 +10,7 @@ library(dplyr)
 library(ggplot2)
 ```
 
+```{r}
+.libPaths()
+```
+
